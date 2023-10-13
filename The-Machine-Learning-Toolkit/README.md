@@ -3,8 +3,8 @@
 This repository contains educational Jupyter notebooks explaining various machine learning algorithms and techniques, organized by use-case. Each algorithm is discussed in detail, including its ideal use-case, real-world examples, and limitations.
 
 ## Status
-- [x] Part I: Basic Classification and Regression (Uploaded)
-- [ ] Part II: Boosting and Clustering (Upcoming)
+- [x] Part I: Basic Classification and Regression 
+- [x] Part II: Boosting and Clustering 
 - [ ] Part III: Intro to Neural Networks (Upcoming)
 
 ## Additional Resources
